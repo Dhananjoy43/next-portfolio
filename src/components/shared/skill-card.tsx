@@ -1,5 +1,4 @@
 import Image from "next/image";
-import React from "react";
 
 export const SkillCard = ({ image, name }: { image: string; name: string }) => {
     return (
